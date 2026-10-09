@@ -1,0 +1,7 @@
+label,mean_words,median_words,mean_lexical_diversity,mean_word_length,mean_sentences,pct_with_bullets,pct_with_code_blocks
+ChatGPT,246.61,244.0,0.626,5.875,10.772,0.0,0.0
+Claude,297.336,294.0,0.617,6.409,7.833,0.0,0.0
+DeepSeek,270.054,269.0,0.677,6.038,13.681,0.0,0.0
+Gemini,268.226,297.0,0.616,5.784,11.234,0.0,0.0
+Llama,209.467,208.0,0.532,5.558,7.855,0.0,0.0
+Qwen,220.831,225.0,0.703,6.276,10.244,0.0,0.0
