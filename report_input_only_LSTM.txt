@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+     ChatGPT       0.17      0.10      0.12       191
+      Claude       0.15      0.15      0.15       203
+    DeepSeek       0.19      0.26      0.22       199
+      Gemini       0.00      0.00      0.00       205
+       Llama       0.17      0.40      0.24       198
+        Qwen       0.17      0.12      0.14       204
+
+    accuracy                           0.17      1200
+   macro avg       0.14      0.17      0.14      1200
+weighted avg       0.14      0.17      0.14      1200
