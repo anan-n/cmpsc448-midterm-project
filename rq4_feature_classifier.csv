@@ -1,0 +1,2 @@
+model,n_train,n_test,n_test_questions,accuracy,macro_f1
+LogisticRegression_handcrafted_features,9604,2396,612,0.5517529215358932,0.5422136769135801
