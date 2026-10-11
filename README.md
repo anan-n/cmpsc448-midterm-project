@@ -2,7 +2,6 @@
 
 **Course:** CMPSC 448  
 **Author:** Ananya Reddy  
-**Project Type:** Individual Project
 
 ## Project Overview
 
