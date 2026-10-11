@@ -286,6 +286,7 @@ Overall, the project provided experience with dataset curation, text preprocessi
 The repository is organized as follows:
 
 ```text
+```text
 cmpsc448-midterm-project/
 ├── README.md
 ├── requirements.txt
@@ -293,18 +294,19 @@ cmpsc448-midterm-project/
 ├── train_models.py
 ├── extra_credit.py
 ├── rq4_feature_classifier.py
-├── data/
-│   └── six_llms.csv
-└── outputs/
-    ├── label_mapping.json
-    ├── model_comparison.csv
-    ├── model_comparison_2epochs.csv
-    ├── model_comparison_5epochs.csv
-    ├── rq3_domain_counts.csv
-    ├── rq3_domain_generalization.csv
-    ├── rq4_feature_summary.csv
-    ├── rq4_statistical_tests.csv
-    └── rq4_feature_classifier.csv
+├── six_llms.csv
+├── model_comparison_5epochs.csv
+├── rq3_domain_generalization.csv
+├── rq4_feature_summary.csv
+├── rq4_statistical_tests.csv
+├── rq4_feature_classifier.csv
+├── report_input_only_CNN.txt
+├── report_input_only_LSTM.txt
+├── report_output_only_CNN.txt
+├── report_output_only_LSTM.txt
+├── report_input_plus_output_CNN.txt
+└── report_input_plus_output_LSTM.txt
+```
 ```
 
 The exact contents of the repository may vary depending on which intermediate results are retained.
