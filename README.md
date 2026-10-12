@@ -1,7 +1,7 @@
 # Who Wrote It? Identifying LLMs from Their Responses
 
 **Course:** CMPSC 448  
-**Author:** Ananya Reddy  
+**Author:** Ananya Reddy (solo)
 
 ## Project Overview
 
